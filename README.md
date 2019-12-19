@@ -1,14 +1,13 @@
 **Leaflet Challenge**
 
-Welcome to the United States Geological Survey, or USGS for short! 
+
 The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment;
-and the impacts of climate and land-use.Their scientists develop new methods and tools to supply timely, relevant,
-and useful information about the Earth and its processes. A sample screenshot of the data:
+and the impacts of climate and land-use. A sample screenshot of the data:
 
 ![image data](https://github.com/Sbagni/leaflet-challenge/blob/master/3-Data.png)
 
 
-The USGS  collects a massive amount of data all over the world each day.This project was to visualise their earthquake data.
+The USGS  collects a massive amount of data all over the world each day.This aim of this project was to visualise their earthquake data.
 
 ![Image earthsat](https://github.com/Sbagni/leaflet-challenge/blob/master/earthquake_satellite.png)
 
