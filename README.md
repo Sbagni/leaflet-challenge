@@ -7,7 +7,7 @@ and the impacts of climate and land-use. A sample screenshot of the data:
 ![image data](https://github.com/Sbagni/leaflet-challenge/blob/master/3-Data.png)
 
 
-The USGS  collects a massive amount of data all over the world each day.This aim of this project was to visualise their earthquake data.
+The USGS  collects a massive amount of data all over the world each day.The aim of this project was to visualise their earthquake data.
 
 ![Image earthsat](https://github.com/Sbagni/leaflet-challenge/blob/master/earthquake_satellite.png)
 
