@@ -1,8 +1,8 @@
 **Leaflet Challenge**
 
 
-The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment;
-and the impacts of climate and land-use. A sample screenshot of the data:
+The USGS is responsible to provide scientific data about natural hazards, the health of our ecosystems and environment;
+and the impacts of climate and land-use. The screenshot below shows the data:
 
 ![image data](https://github.com/Sbagni/leaflet-challenge/blob/master/3-Data.png)
 
