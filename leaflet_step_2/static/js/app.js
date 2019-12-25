@@ -139,9 +139,9 @@ function renderMap(earthquakeURL, faultLinesURL) {
 }
 
 function chooseColor(magnitude) {
-  return magnitude > 5 ? "#red":
-    magnitude > 4 ? "#orange":
-      magnitude > 3 ? "#gold":
+  return magnitude > 5 ? "red":
+    magnitude > 4 ? "orange":
+      magnitude > 3 ? "gold":
         magnitude > 2 ? "yellow":
           magnitude > 1 ? "yellowgreen":
             "greenyellow"; 
